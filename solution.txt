@@ -5,3 +5,6 @@ YourUsername.github.io
 $ curl --output /dev/null --silent --head --fail YourUsername.github.io && \
 echo "URL exists" || echo "URL does not exist"
 URL exists
+
+
+Byte 0: you_just_mastered_changing_directories
